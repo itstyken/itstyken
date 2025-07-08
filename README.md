@@ -4,7 +4,7 @@ My [old GitHub](https://github.com/Tyken73) with school projects
 
 Currently working as a full stack developer at ESL English House.
 
-Certified as a Software Development Technician by Etec de Peruíbe, where I developed a [programming language called Wiz]([https://github.com/Tyken73](https://github.com/wiz-programming-language/wiz-prototype)) for my final thesis.
+Certified as a Software Development Technician by Etec de Peruíbe, where I developed a [programming language called Wiz](https://github.com/wiz-programming-language/wiz-prototype) for my final thesis.
 
 Aspiring to acquire a computer science abroad.
 
